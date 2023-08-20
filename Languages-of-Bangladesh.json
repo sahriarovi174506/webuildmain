@@ -1,0 +1,2043 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": ""
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 20545,
+          "hid": "pan",
+          "father_pk": 18642,
+          "family_pk": 72,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "('Bhattiyani [bhat1264]':1,'Doabi [doab1238]':1,'Ludhianwi [panj1257]':1,'Majhi {Panjabi} [majh1252]':1,'Malwa [malw1235]':1,'Patialwi [pati1240]':1,'Powadhi [powa1244]':1,'Rathi {Panjabi} [bath1239]':1)'Eastern Panjabi [panj1256][pan]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 8,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://wals.info/languoid/lect/wals_code_pan",
+                "label": "Panjabi"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Punjabi_language",
+                "label": null
+              },
+              {
+                "url": "https://phoible.org/languages/panj1256",
+                "label": null
+              },
+              {
+                "url": "https://www.wikidata.org/entity/Q58635",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "569033",
+                "long_grammar",
+                2016,
+                486,
+                "Bhardwaj, Mangat Rai 2016"
+              ],
+              [
+                "568570",
+                "long_grammar",
+                1912,
+                443,
+                "Cummings, Thomas F. and T. Grahame Bailey 1912"
+              ],
+              [
+                "319460",
+                "grammar_sketch",
+                1812,
+                103,
+                "Carey, William 1812"
+              ]
+            ]
+          },
+          "id": "panj1256",
+          "name": "Eastern Panjabi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 30.0368,
+          "longitude": 75.6702
+        },
+        "name": "Eastern Panjabi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6702,
+          30.0368
+        ]
+      },
+      "id": "panj1256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 20565,
+          "hid": "rhg",
+          "father_pk": 18659,
+          "family_pk": 72,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "'Rohingya [rohi1238][rhg]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 0,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://www.wikidata.org/entity/Q3241177",
+                "label": null
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Rohingya_language",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "319352",
+                "wordlist_or_less",
+                2011,
+                68,
+                "Basu, Mohammed Siddique 2011"
+              ],
+              [
+                "500794",
+                "wordlist_or_less",
+                2006,
+                0,
+                "ISO 639-3 Registration Authority 2006"
+              ],
+              [
+                "308106",
+                "wordlist_or_less",
+                1972,
+                151,
+                "Yegar, Moshe 1972"
+              ]
+            ]
+          },
+          "id": "rohi1238",
+          "name": "Rohingya",
+          "description": null,
+          "markup_description": null,
+          "latitude": 20.833082,
+          "longitude": 92.393968
+        },
+        "name": "Rohingya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.393968,
+          20.833082
+        ]
+      },
+      "id": "rohi1238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 20567,
+          "hid": "bpy",
+          "father_pk": 18659,
+          "family_pk": 72,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "('Madai Gang [mada1280]':1,'Rajar Gang [raja1252]':1)'Bishnupriya Manipuri [bish1244][bpy]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 2,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://endangeredlanguages.com/lang/1246",
+                "label": "Bishnupuriya"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Bishnupriya_Manipuri_language",
+                "label": null
+              },
+              {
+                "url": "https://www.wikidata.org/entity/Q37059",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "552221",
+                "long_grammar",
+                1968,
+                358,
+                "Sinha, Kaliprasad 1968"
+              ],
+              [
+                "314491",
+                "grammar_sketch",
+                1967,
+                0,
+                "Sinha, Kali Prasad 1967"
+              ]
+            ]
+          },
+          "id": "bish1244",
+          "name": "Bishnupriya Manipuri",
+          "description": null,
+          "markup_description": null,
+          "latitude": 24.4578,
+          "longitude": 92.0157
+        },
+        "name": "Bishnupriya Manipuri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0157,
+          24.4578
+        ]
+      },
+      "id": "bish1244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 20570,
+          "hid": "ben",
+          "father_pk": 18659,
+          "family_pk": 72,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "('Central Bengali [cent1983]':1,('Barik [bari1281]':1,'Bhatiari [bhat1266]':1,'Chirmar [chir1281]':1,'Musselmani [muss1245]':1,'Samaria [sama1293]':1,'Saraki [sara1311]':1)'Ganda {Bengali} [gand1253]':1,('Kachari-Bengali [kach1275]':1,'Koch {Northern Bengali} [koch1248]':1,'Rajshahi [rajs1238]':1,'Siripuria [siri1268]':1)'Northern Bengali [nort2658]':1,'Vanga [vang1242]':1)'Bengali [beng1280][ben]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 14,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://wals.info/languoid/lect/wals_code_ben",
+                "label": "Bengali"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Bengali_language",
+                "label": null
+              },
+              {
+                "url": "https://phoible.org/languages/beng1280",
+                "label": null
+              },
+              {
+                "url": "https://www.wikidata.org/entity/Q9610",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "48188",
+                "long_grammar",
+                1926,
+                1270,
+                "Chatterji, Sunti Kumar 1926"
+              ],
+              [
+                "305954",
+                "grammar",
+                1778,
+                62,
+                "Nathaniel B. Halhed 1778"
+              ]
+            ]
+          },
+          "id": "beng1280",
+          "name": "Bengali",
+          "description": null,
+          "markup_description": null,
+          "latitude": 24,
+          "longitude": 90
+        },
+        "name": "Bengali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90,
+          24
+        ]
+      },
+      "id": "beng1280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 22267,
+          "hid": "tnv",
+          "father_pk": 20566,
+          "family_pk": 72,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "'Tangchangya [tang1330][tnv]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 0,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://www.wikidata.org/entity/Q7682361",
+                "label": null
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Tanchangya_language",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "140682",
+                "wordlist_or_less",
+                1964,
+                8,
+                "Lorenz G. Löffler 1964"
+              ],
+              [
+                "90875",
+                "wordlist_or_less",
+                1841,
+                3,
+                "Phayre, Arthur Purvis 1841"
+              ]
+            ]
+          },
+          "id": "tang1330",
+          "name": "Tangchangya",
+          "description": null,
+          "markup_description": null,
+          "latitude": 22.3185,
+          "longitude": 92.5073
+        },
+        "name": "Tangchangya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5073,
+          22.3185
+        ]
+      },
+      "id": "tang1330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 22268,
+          "hid": "ccp",
+          "father_pk": 20566,
+          "family_pk": 72,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "'Chakma [chak1266][ccp]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 0,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://www.wikidata.org/entity/Q32952",
+                "label": null
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Chakma_language",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "579323",
+                "grammar",
+                2004,
+                248,
+                "Bhattacharyya, Sumana 2004"
+              ],
+              [
+                "112277",
+                "grammar_sketch",
+                1996,
+                18,
+                "Ganguly, Siddhartha and Talukdar, Sakya Prasad 1996"
+              ],
+              [
+                "604773",
+                "phonology_or_text",
+                1993,
+                0,
+                "Chakma, Pulin Bayan 1993"
+              ],
+              [
+                "633291",
+                "phonology_or_text",
+                1984,
+                17,
+                "Maniruzzaman, {} 1984"
+              ],
+              [
+                "142625",
+                "wordlist_or_less",
+                1903,
+                9,
+                "George A. Grierson 1903"
+              ]
+            ]
+          },
+          "id": "chak1266",
+          "name": "Chakma",
+          "description": null,
+          "markup_description": null,
+          "latitude": 23.00148,
+          "longitude": 92.339
+        },
+        "name": "Chakma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.339,
+          23.00148
+        ]
+      },
+      "id": "chak1266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 22269,
+          "hid": "ctg",
+          "father_pk": 20566,
+          "family_pk": 72,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "'Chittagonian [chit1275][ctg]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 0,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://www.wikidata.org/entity/Q33173",
+                "label": null
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Chittagonian_language",
+                "label": null
+              },
+              {
+                "url": "https://wals.info/languoid/lect/wals_code_bec",
+                "label": "Bengali (Chittagong)"
+              }
+            ],
+            "meds": [
+              [
+                "8744",
+                "grammar",
+                1970,
+                175,
+                "Ucida, Norihiko 1970"
+              ],
+              [
+                "53933",
+                "grammar_sketch",
+                1940,
+                52,
+                "Krishnapada Goswami 1940-1941"
+              ],
+              [
+                "142625",
+                "wordlist_or_less",
+                1903,
+                9,
+                "George A. Grierson 1903"
+              ]
+            ]
+          },
+          "id": "chit1275",
+          "name": "Chittagonian",
+          "description": null,
+          "markup_description": null,
+          "latitude": 20.831,
+          "longitude": 93.1695
+        },
+        "name": "Chittagonian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.1695,
+          20.831
+        ]
+      },
+      "id": "chit1275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 22270,
+          "hid": "NOCODE_Noakhali",
+          "father_pk": 20566,
+          "family_pk": 72,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "('Feni {Noakhali} [feni1234]':1,'Hatia islands [hati1234]':1,'Maijdi [maij1234]':1)'Noakhali [noak1234]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 3,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [],
+            "meds": [
+              [
+                "581210",
+                "grammar_sketch",
+                1975,
+                171,
+                "Abul Kalam Manzur Morshed 1975"
+              ],
+              [
+                "662379",
+                "grammar_sketch",
+                1933,
+                38,
+                "Gopal Haldar 1933"
+              ],
+              [
+                "662378",
+                "phonology_or_text",
+                1929,
+                40,
+                "Gopal Haldar 1929"
+              ]
+            ],
+            "new": true
+          },
+          "id": "noak1234",
+          "name": "Noakhali",
+          "description": null,
+          "markup_description": null,
+          "latitude": 22.64424,
+          "longitude": 91.08214
+        },
+        "name": "Noakhali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.08214,
+          22.64424
+        ]
+      },
+      "id": "noak1234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 22273,
+          "hid": "haj",
+          "father_pk": 20568,
+          "family_pk": 72,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "'Hajong [hajo1238][haj]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 0,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://www.wikidata.org/entity/Q3350576",
+                "label": null
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Hajong_language",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "589049",
+                "phonology_or_text",
+                2018,
+                14,
+                "Virginia Crowell Phillips 2018"
+              ],
+              [
+                "588727",
+                "phonology_or_text",
+                2015,
+                320,
+                "Choudhury Ghulam Mustafa, Al Kafil 2015"
+              ],
+              [
+                "105372",
+                "wordlist_or_less",
+                2011,
+                44,
+                "Ahmad, Sayed and Kim, Amy and Kim, Seung and Sangma, Mridul 2011"
+              ],
+              [
+                "142625",
+                "wordlist_or_less",
+                1903,
+                9,
+                "George A. Grierson 1903"
+              ]
+            ]
+          },
+          "id": "hajo1238",
+          "name": "Hajong",
+          "description": null,
+          "markup_description": null,
+          "latitude": 25.5143,
+          "longitude": 89.8594
+        },
+        "name": "Hajong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8594,
+          25.5143
+        ]
+      },
+      "id": "hajo1238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 22274,
+          "hid": "syl",
+          "father_pk": 20568,
+          "family_pk": 72,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "'Sylheti [sylh1242][syl]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 0,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Sylheti_language",
+                "label": null
+              },
+              {
+                "url": "https://www.wikidata.org/entity/Q2044560",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "569815",
+                "grammar_sketch",
+                1996,
+                71,
+                "Rod Chalmers 1996"
+              ],
+              [
+                "319146",
+                "grammar_sketch",
+                1966,
+                12,
+                "Hai, Muhammad Abdul 1966"
+              ],
+              [
+                "142625",
+                "wordlist_or_less",
+                1903,
+                9,
+                "George A. Grierson 1903"
+              ]
+            ]
+          },
+          "id": "sylh1242",
+          "name": "Sylheti",
+          "description": null,
+          "markup_description": null,
+          "latitude": 24.83724,
+          "longitude": 92.25347
+        },
+        "name": "Sylheti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25347,
+          24.83724
+        ]
+      },
+      "id": "sylh1242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 22279,
+          "hid": "asm",
+          "father_pk": 20572,
+          "family_pk": 72,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "('Jharwa [jhar1240]':1,'Mayang [maya1277]':1,'Standard Assamese [stan1302]':1,'Western Assamese [west2383]':1)'Assamese [assa1263][asm]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 4,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://wals.info/languoid/lect/wals_code_ass",
+                "label": "Assamese"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Assamese_language",
+                "label": null
+              },
+              {
+                "url": "https://phoible.org/languages/assa1263",
+                "label": null
+              },
+              {
+                "url": "https://www.wikidata.org/entity/Q29401",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "23317",
+                "long_grammar",
+                1980,
+                1068,
+                "P. N. Dutta Baruah 1980"
+              ],
+              [
+                "587856",
+                "long_grammar",
+                1973,
+                366,
+                "Kakati, Banamali 1973"
+              ],
+              [
+                "15182",
+                "long_grammar",
+                1970,
+                326,
+                "Upendranath Goswami 1970"
+              ],
+              [
+                "549095",
+                "grammar",
+                1958,
+                267,
+                "Goswami, Upendra Nath 1958"
+              ],
+              [
+                "86566",
+                "grammar_sketch",
+                1848,
+                106,
+                "Nathan Brown 1848"
+              ],
+              [
+                "581620",
+                "grammar_sketch",
+                1839,
+                80,
+                "Robinson, William 1839"
+              ],
+              [
+                "115954",
+                "wordlist_or_less",
+                1837,
+                1,
+                "Brown, Nathan 1837"
+              ]
+            ]
+          },
+          "id": "assa1263",
+          "name": "Assamese",
+          "description": null,
+          "markup_description": null,
+          "latitude": 26.0876,
+          "longitude": 91.2932
+        },
+        "name": "Assamese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2932,
+          26.0876
+        ]
+      },
+      "id": "assa1263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 22282,
+          "hid": "rkt",
+          "father_pk": 20573,
+          "family_pk": 72,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "('Bahe [bahe1242]':1,'Kamta {India} [kamt1243]':1,'Rangpuri {Bangladesh} [rang1272]':1)'Central-Eastern Kamta [rang1265][rkt]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 3,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://www.wikidata.org/entity/Q3241618",
+                "label": null
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Rangpuri_language",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "552405",
+                "grammar_sketch",
+                2011,
+                119,
+                "Sultan, Hasinus 2011"
+              ],
+              [
+                "319021",
+                "grammar_sketch",
+                2010,
+                64,
+                "Ali Prodhani, Mir Jahan 2010"
+              ],
+              [
+                "548304",
+                "grammar_sketch",
+                1990,
+                63,
+                "Das, Dhirendra Nath 1990"
+              ],
+              [
+                "33186",
+                "grammar_sketch",
+                1939,
+                19,
+                "Chaudhuri, Sambhu Chandra 1939"
+              ],
+              [
+                "142625",
+                "wordlist_or_less",
+                1903,
+                9,
+                "George A. Grierson 1903"
+              ]
+            ]
+          },
+          "id": "rang1265",
+          "name": "Central-Eastern Kamta",
+          "description": null,
+          "markup_description": null,
+          "latitude": 26.3834,
+          "longitude": 88.4536
+        },
+        "name": "Central-Eastern Kamta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4536,
+          26.3834
+        ]
+      },
+      "id": "rang1265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 22296,
+          "hid": "hin",
+          "father_pk": 20592,
+          "family_pk": 72,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "('Dakhini [dakh1243]':1,'Literary Hindi [lite1247]':1,'Nuclear Hindi [nucl1281]':1,'Rekhta [rekh1239]':1)'Hindi [hind1269][hin]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 4,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://wals.info/languoid/lect/wals_code_hin",
+                "label": "Hindi"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Hindi",
+                "label": null
+              },
+              {
+                "url": "https://phoible.org/languages/hind1269",
+                "label": null
+              },
+              {
+                "url": "https://www.wikidata.org/entity/Q1568",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "589787",
+                "long_grammar",
+                1961,
+                402,
+                "Tiwari, Uday Nārāyaṇ 1961"
+              ],
+              [
+                "138278",
+                "grammar",
+                1955,
+                175,
+                "Scholberg, H. C. 1955"
+              ],
+              [
+                "31614",
+                "grammar_sketch",
+                1745,
+                87,
+                "Benjamin Schultze 1745"
+              ],
+              [
+                "576224",
+                "grammar_sketch",
+                1698,
+                64,
+                "Anna Pytlowany 2018 [1698]"
+              ]
+            ]
+          },
+          "id": "hind1269",
+          "name": "Hindi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 25,
+          "longitude": 77
+        },
+        "name": "Hindi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77,
+          25
+        ]
+      },
+      "id": "hind1269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 22297,
+          "hid": "urd",
+          "father_pk": 20592,
+          "family_pk": 72,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "('Dakhini {Urdu} [dakh1244]':1,'Judeo-Urdu [jude1269]':1,'Pinjari [pinj1242]':1)'Urdu [urdu1245][urd]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 3,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://wals.info/languoid/lect/wals_code_urd",
+                "label": "Urdu"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Urdu",
+                "label": null
+              },
+              {
+                "url": "https://phoible.org/languages/urdu1245",
+                "label": null
+              },
+              {
+                "url": "https://www.wikidata.org/entity/Q1617",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "550974",
+                "long_grammar",
+                1985,
+                584,
+                "Khateeb S. Mustafa 1985"
+              ],
+              [
+                "18233",
+                "long_grammar",
+                1967,
+                490,
+                "Ernest Bender 1967"
+              ],
+              [
+                "426597",
+                "long_grammar",
+                1872,
+                305,
+                "Dowson, John 1872"
+              ],
+              [
+                "553038",
+                "grammar_sketch",
+                1841,
+                228,
+                "W. Yates 1841"
+              ]
+            ]
+          },
+          "id": "urdu1245",
+          "name": "Urdu",
+          "description": null,
+          "markup_description": null,
+          "latitude": 25,
+          "longitude": 67
+        },
+        "name": "Urdu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67,
+          25
+        ]
+      },
+      "id": "urdu1245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 24901,
+          "hid": "sdr",
+          "father_pk": 23881,
+          "family_pk": 72,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "('Borail Sadri [bora1261]':1,'Mokkan Tila Sadri [mokk1242]':1,'Nurpur Sadri [nurp1238]':1,'Uchai Sadri [ucha1239]':1)'Oraon Sadri [orao1237][sdr]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 4,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://www.wikidata.org/entity/Q12953860",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "313036",
+                "wordlist_or_less",
+                1963,
+                245,
+                "Amal Kumar Das and Manis Kumar Raha 1963"
+              ]
+            ]
+          },
+          "id": "orao1237",
+          "name": "Oraon Sadri",
+          "description": null,
+          "markup_description": null,
+          "latitude": 24.7458,
+          "longitude": 88.9157
+        },
+        "name": "Oraon Sadri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9157,
+          24.7458
+        ]
+      },
+      "id": "orao1237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 24902,
+          "hid": "sck",
+          "father_pk": 23881,
+          "family_pk": 72,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "('Common Sadri [comm1243]':1,'Kisan [kisa1260]':1,'Lower Sadri [lowe1391]':1)'Sadri [sadr1248][sck]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 3,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [],
+            "meds": [
+              [
+                "581920",
+                "long_grammar",
+                1989,
+                430,
+                "Srivastava, Surendra Prasad 1989"
+              ],
+              [
+                "27111",
+                "grammar",
+                1969,
+                211,
+                "Jordan-Horstmann, Monika 1969"
+              ],
+              [
+                "135942",
+                "grammar_sketch",
+                1914,
+                32,
+                "Whitley, E. H. 1914"
+              ],
+              [
+                "557860",
+                "grammar_sketch",
+                1896,
+                21,
+                "Whitley, E. H. 1896"
+              ]
+            ]
+          },
+          "id": "sadr1248",
+          "name": "Sadri",
+          "description": null,
+          "markup_description": null,
+          "latitude": 23.6585,
+          "longitude": 84.8114
+        },
+        "name": "Sadri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.8114,
+          23.6585
+        ]
+      },
+      "id": "sadr1248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 20637,
+          "hid": "guj",
+          "father_pk": 18729,
+          "family_pk": 72,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "('Gamadia [gama1250]':1,'Kakari [kaka1263]':1,'Kathiyawadi [kath1249]':1,'Kharwa [khar1282]':1,'Standard Gujarati [stan1296]':1,'Tarimuki [tari1254]':1)'Gujarati [guja1252][guj]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 6,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://wals.info/languoid/lect/wals_code_guj",
+                "label": "Gujarati"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Gujarati_language",
+                "label": null
+              },
+              {
+                "url": "https://phoible.org/languages/guja1252",
+                "label": null
+              },
+              {
+                "url": "https://www.wikidata.org/entity/Q5137",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "548033",
+                "long_grammar",
+                1956,
+                490,
+                "Chokshi, Bhanuprasad R. 1956"
+              ],
+              [
+                "589742",
+                "grammar_sketch",
+                1914,
+                1229,
+                "Tessitori, Luigi Pio 1914, 1914, 1914, 1914, 1914, 1914, 1914, 1915, 1915, 1915, 1915, 1915, 1916, 1916"
+              ],
+              [
+                "50330",
+                "phonology_or_text",
+                1908,
+                4,
+                "George A. Grierson 1908"
+              ],
+              [
+                "52757",
+                "wordlist_or_less",
+                1874,
+                9,
+                "Campbell, George 1874"
+              ],
+              [
+                "585979",
+                "wordlist_or_less",
+                1844,
+                5,
+                "Balfour, Edward 1844"
+              ]
+            ]
+          },
+          "id": "guja1252",
+          "name": "Gujarati",
+          "description": null,
+          "markup_description": null,
+          "latitude": 22.687,
+          "longitude": 71.0962
+        },
+        "name": "Gujarati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.0962,
+          22.687
+        ]
+      },
+      "id": "guja1252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwOTkwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 6349,
+          "hid": "ins",
+          "father_pk": 4317,
+          "family_pk": 206,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Sign Language",
+          "newick": "('Bangalore-Madras Indian Sign Language [bang1373]':1,'Bombay Indian Sign Language [bomb1264]':1,'Calcutta Indian Sign Language [calc1236]':1,'Delhi Indian Sign Language [delh1234]':1,'Kolkata Indian Sign Language [kolk1234][wbs]':1,'Shillong Indian Sign Language [shil1266]':1)'Indian Sign Language [indi1237][ins]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 6,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Indo-Pakistani_Sign_Language",
+                "label": null
+              },
+              {
+                "url": "https://wals.info/languoid/lect/wals_code_ipi",
+                "label": "Indo-Pakistani Sign Language (Indian dialects)"
+              },
+              {
+                "url": "https://www.wikidata.org/entity/Q3306265",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "577293",
+                "grammar",
+                2018,
+                227,
+                "Samar Sinha 2018"
+              ],
+              [
+                "117457",
+                "grammar",
+                2000,
+                190,
+                "Zeshan, Ulrike 2000"
+              ],
+              [
+                "314469",
+                "grammar_sketch",
+                1993,
+                113,
+                "Rajalakshmi, K. 1993"
+              ],
+              [
+                "472247",
+                "phonology_or_text",
+                1980,
+                181,
+                "Vasishta, Madan and James Woodward and Susan De Santis 1980"
+              ],
+              [
+                "472780",
+                "wordlist_or_less",
+                1979,
+                9,
+                "Vasishta, Madan and Woodward, J. C. and K. Wilson 1979"
+              ],
+              [
+                "472781",
+                "wordlist_or_less",
+                1975,
+                0,
+                "Vasishta, Madan 1975"
+              ]
+            ]
+          },
+          "id": "indi1237",
+          "name": "Indian Sign Language",
+          "description": null,
+          "markup_description": null,
+          "latitude": 27.5186,
+          "longitude": 79.6787
+        },
+        "name": "Indian Sign Language"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6787,
+          27.5186
+        ]
+      },
+      "id": "indi1237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izk5MDA5OTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 15972,
+          "hid": "mya",
+          "father_pk": 13185,
+          "family_pk": 332,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "('Bomang [boma1245]':1,'Mandalay-Yangon [mand1476]':1,'Yaw [yaww1238]':1)'Burmese [nucl1310][mya]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 3,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://wals.info/languoid/lect/wals_code_brm",
+                "label": "Burmese"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Burmese_language",
+                "label": null
+              },
+              {
+                "url": "https://phoible.org/languages/nucl1310",
+                "label": null
+              },
+              {
+                "url": "https://www.wikidata.org/entity/Q9228",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "587801",
+                "long_grammar",
+                2016,
+                525,
+                "Jenny, Mathias and Hnin Tun, San San 2016"
+              ],
+              [
+                "60950",
+                "long_grammar",
+                1968,
+                524,
+                "W. S. Cornyn and H. D. Roop 1968"
+              ],
+              [
+                "50369",
+                "grammar",
+                1845,
+                259,
+                "Latter, Thomas 1845"
+              ],
+              [
+                "308941",
+                "grammar_sketch",
+                1842,
+                91,
+                "Judson, Adoniram 1842"
+              ],
+              [
+                "470866",
+                "wordlist_or_less",
+                1810,
+                32,
+                "Julius Klaproth 1810"
+              ],
+              [
+                "56746",
+                "wordlist_or_less",
+                1798,
+                11,
+                "Buchanan, Francis 1798"
+              ]
+            ]
+          },
+          "id": "nucl1310",
+          "name": "Burmese",
+          "description": null,
+          "markup_description": null,
+          "latitude": 20.7926,
+          "longitude": 93.9665
+        },
+        "name": "Burmese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9665,
+          20.7926
+        ]
+      },
+      "id": "nucl1310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izk5MDA5OTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 18403,
+          "hid": "rki",
+          "father_pk": 15974,
+          "family_pk": 332,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "'Rakhine [rakh1245][rki]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 0,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [],
+            "meds": [
+              [
+                "177752",
+                "grammar_sketch",
+                1995,
+                46,
+                "Okell, John 1995"
+              ],
+              [
+                "117004",
+                "phonology_or_text",
+                1985,
+                21,
+                "Bradley, David 1985"
+              ],
+              [
+                "73243",
+                "wordlist_or_less",
+                1903,
+                12,
+                "Sten Konow 1903"
+              ],
+              [
+                "104329",
+                "wordlist_or_less",
+                1846,
+                10,
+                "Latter, Thomas 1846"
+              ]
+            ]
+          },
+          "id": "rakh1245",
+          "name": "Rakhine",
+          "description": null,
+          "markup_description": null,
+          "latitude": 20.527429,
+          "longitude": 93.145906
+        },
+        "name": "Rakhine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.145906,
+          20.527429
+        ]
+      },
+      "id": "rakh1245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izk5MDA5OTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 18404,
+          "hid": "rmz",
+          "father_pk": 15974,
+          "family_pk": 332,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "'Marma [marm1234][rmz]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 0,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://www.wikidata.org/entity/Q21403256",
+                "label": null
+              },
+              {
+                "url": "https://wals.info/languoid/lect/wals_code_akm",
+                "label": "Arakanese (Marma)"
+              }
+            ],
+            "meds": [
+              [
+                "549571",
+                "phonology_or_text",
+                2003,
+                64,
+                "Huziwara, Keisuke 2003"
+              ],
+              [
+                "68303",
+                "phonology_or_text",
+                1957,
+                22,
+                "Bernot, Denise 1957-1958"
+              ]
+            ]
+          },
+          "id": "marm1234",
+          "name": "Marma",
+          "description": null,
+          "markup_description": null,
+          "latitude": 22.759948,
+          "longitude": 92.210748
+        },
+        "name": "Marma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.210748,
+          22.759948
+        ]
+      },
+      "id": "marm1234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izk5MDA5OTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 3180,
+          "hid": "mro",
+          "father_pk": 1653,
+          "family_pk": 332,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "'Mru [mruu1242][mro]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 0,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://endangeredlanguages.com/lang/4710",
+                "label": "Mru"
+              },
+              {
+                "url": "https://www.wikidata.org/entity/Q1951521",
+                "label": null
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Mru_language",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "548577",
+                "grammar_sketch",
+                1996,
+                38,
+                "Harold Ebersole 1996"
+              ],
+              [
+                "52757",
+                "wordlist_or_less",
+                1874,
+                9,
+                "Campbell, George 1874"
+              ],
+              [
+                "29610",
+                "wordlist_or_less",
+                1869,
+                8,
+                "Lewin, Thomas Herbert 1869"
+              ],
+              [
+                "73798",
+                "wordlist_or_less",
+                1853,
+                2,
+                "Hodgson, Brian Houghton 1853"
+              ]
+            ]
+          },
+          "id": "mruu1242",
+          "name": "Mru",
+          "description": null,
+          "markup_description": null,
+          "latitude": 24.154,
+          "longitude": 90.6317
+        },
+        "name": "Mru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6317,
+          24.154
+        ]
+      },
+      "id": "mruu1242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izk5MDA5OTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 3193,
+          "hid": "mni",
+          "father_pk": 1659,
+          "family_pk": 332,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "('Loi [loii1241]':1,'Meitei [meit1246]':1,'Pangal [pang1284]':1)'Manipuri [mani1292][mni]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 3,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://wals.info/languoid/lect/wals_code_mei",
+                "label": "Meithei"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Meitei_language",
+                "label": null
+              },
+              {
+                "url": "https://phoible.org/languages/mani1292",
+                "label": null
+              },
+              {
+                "url": "https://www.wikidata.org/entity/Q33868",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "25711",
+                "long_grammar",
+                1992,
+                565,
+                "Chelliah, Shobhana Lakshmi 1992"
+              ],
+              [
+                "552218",
+                "long_grammar",
+                1976,
+                509,
+                "Singh, Usham Chetan 1976"
+              ],
+              [
+                "135537",
+                "grammar",
+                1888,
+                100,
+                "Primrose, Arthur John 1888"
+              ],
+              [
+                "87441",
+                "grammar",
+                1875,
+                9,
+                "Damant, G. H. 1875"
+              ],
+              [
+                "52757",
+                "wordlist_or_less",
+                1874,
+                9,
+                "Campbell, George 1874"
+              ],
+              [
+                "83951",
+                "wordlist_or_less",
+                1872,
+                5,
+                "Dalton, Edward Tuite 1872"
+              ],
+              [
+                "115954",
+                "wordlist_or_less",
+                1837,
+                1,
+                "Brown, Nathan 1837"
+              ]
+            ]
+          },
+          "id": "mani1292",
+          "name": "Manipuri",
+          "description": null,
+          "markup_description": null,
+          "latitude": 24.4409,
+          "longitude": 93.3426
+        },
+        "name": "Manipuri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.3426,
+          24.4409
+        ]
+      },
+      "id": "mani1292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izk5MDA5OTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 13283,
+          "hid": "csh",
+          "father_pk": 10223,
+          "family_pk": 332,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "('Chittagong [chit1280]':1,'Khyang [khya1239]':1,'Lemyo [lemy1239]':1,'Minbu [minb1243]':1,'Saingbaun [sain1244]':1,'Sandoway [sand1269]':1,'Thayetmyo [thay1247]':1)'Asho Chin [asho1236][csh]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 7,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://www.wikidata.org/entity/Q7506059",
+                "label": null
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Sh%C3%B6_language",
+                "label": null
+              },
+              {
+                "url": "https://wals.info/languoid/lect/wals_code_hyo",
+                "label": "Hyow"
+              }
+            ],
+            "meds": [
+              [
+                "578840",
+                "long_grammar",
+                2018,
+                882,
+                "Zakaria, Muhammad 2018"
+              ],
+              [
+                "574034",
+                "grammar_sketch",
+                1963,
+                244,
+                "Lehman, F. K. 1963"
+              ],
+              [
+                "43713",
+                "grammar_sketch",
+                1892,
+                133,
+                "Houghton, Bernhard 1892"
+              ],
+              [
+                "548868",
+                "grammar_sketch",
+                1875,
+                44,
+                "Fryer, G. E. 1875"
+              ],
+              [
+                "153209",
+                "wordlist_or_less",
+                1868,
+                12,
+                "Hunter, William Wilson 1868"
+              ],
+              [
+                "90875",
+                "wordlist_or_less",
+                1841,
+                3,
+                "Phayre, Arthur Purvis 1841"
+              ]
+            ]
+          },
+          "id": "asho1236",
+          "name": "Asho Chin",
+          "description": null,
+          "markup_description": null,
+          "latitude": 21.393,
+          "longitude": 93.5069
+        },
+        "name": "Asho Chin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.5069,
+          21.393
+        ]
+      },
+      "id": "asho1236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izk5MDA5OTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "language": {
+          "pk": 10226,
+          "hid": "cnk",
+          "father_pk": 7354,
+          "family_pk": 332,
+          "level": "language",
+          "bookkeeping": false,
+          "category": "Spoken L1 Language",
+          "newick": "('Kami [kami1254]':1,'Khami [kham1284]':1,'Khimi [khim1238]':1,'Khumi [khum1249]':1,'Khuni {Kumi Chin} [khun1258]':1,'Khweymi [khwe1238]':1,'Kumi [kumi1246]':1,'Ngala {Kumi Chin} [ngal1290]':1,'Yindi [yind1246]':1)'Khumi Chin [khum1248][cnk]-l-':1",
+          "child_family_count": 0,
+          "child_language_count": 0,
+          "child_dialect_count": 9,
+          "macroareas": "Eurasia",
+          "jsondata": {
+            "iso_retirement": null,
+            "ethnologue_comment": null,
+            "links": [
+              {
+                "url": "https://wals.info/languoid/lect/wals_code_khu",
+                "label": "Khumi"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Khumi_language",
+                "label": null
+              },
+              {
+                "url": "https://www.wikidata.org/entity/Q56308",
+                "label": null
+              }
+            ],
+            "meds": [
+              [
+                "576001",
+                "grammar_sketch",
+                2019,
+                44,
+                "David A. Peterson 2019"
+              ],
+              [
+                "11794",
+                "grammar_sketch",
+                1964,
+                0,
+                "Kim En Mang 1964"
+              ],
+              [
+                "18780",
+                "wordlist_or_less",
+                1895,
+                28,
+                "Bernard Houghton 1895"
+              ],
+              [
+                "40616",
+                "wordlist_or_less",
+                1866,
+                7,
+                "Lyman Stilson 1866"
+              ],
+              [
+                "73798",
+                "wordlist_or_less",
+                1853,
+                2,
+                "Hodgson, Brian Houghton 1853"
+              ]
+            ]
+          },
+          "id": "khum1248",
+          "name": "Khumi Chin",
+          "description": null,
+          "markup_description": null,
+          "latitude": 22.87125,
+          "longitude": 92.9894633333
+        },
+        "name": "Khumi Chin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9894633333,
+          22.87125
+        ]
+      },
+      "id": "khum1248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izk5MDA5OTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc 
